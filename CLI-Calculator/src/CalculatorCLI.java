@@ -1,6 +1,9 @@
 import java.util.Scanner;
 public class    CalculatorCLI {
     public static void main(String[] args) {
+        System.out.println("=================================");
+        System.out.println("      Welcome to Calculator      ");
+        System.out.println("=================================");
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter first Number: ");
         double num1 = sc.nextDouble();
@@ -34,5 +37,6 @@ public class    CalculatorCLI {
                 return;
         }
         System.out.println("Result: " + result);
+        sc.close();
     }
 }
