@@ -1,4 +1,4 @@
-# Java CLI Projects
+# Java CLI Projects ☕
 
 A collection of command-line applications built while learning Core Java.
 
@@ -25,17 +25,40 @@ A simple calculator built using Java.
 
 ---
 
-## Upcoming Projects
+### ✅ Number Guessing Game
 
-- Number Guessing Game
-- Tic Tac Toe
-- Todo CLI
-- Expense Tracker
-- Student Management System
+A console-based game where the computer generates a random number between 1 and 100, and the player must guess it within a limited number of attempts.
+
+**Features**
+- Random number generation
+- Guess feedback (Too High / Too Low)
+- Limited attempts
+- Win/Lose conditions
+- Displays total attempts used
+
+**Concepts Used**
+- Random class
+- Scanner
+- Variables
+- if-else statements
+- while loop
+- Loop control (`break`)
+- User Input
 
 ---
 
-## 🛠 Technologies
+## Upcoming Projects
+
+-  Tic Tac Toe (CLI)
+-  To-Do List (CLI)
+-  Expense Tracker
+-  Student Management System
+-  Library Management System
+-  Banking System
+
+---
+
+## Technologies Used
 
 - Java
 - IntelliJ IDEA
@@ -44,6 +67,8 @@ A simple calculator built using Java.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Pradum Singh**
+
+GitHub: https://github.com/pradumsing
